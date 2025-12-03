@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910197596876",
+    "project_id": "lab16-productos",
+    "storage_bucket": "lab16-productos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910197596876:android:3233fb4eee543c40c51869",
+        "android_client_info": {
+          "package_name": "com.tecsup.productmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5MgthNzTMbKyq9vK_dT2hAkfpp6QVQTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
