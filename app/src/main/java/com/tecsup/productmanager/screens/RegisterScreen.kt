@@ -1,3 +1,5 @@
+package com.tecsup.productmanager.screens
+
 import android.widget.Toast
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
