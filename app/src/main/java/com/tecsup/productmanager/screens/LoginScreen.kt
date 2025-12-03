@@ -72,13 +72,6 @@ fun LoginScreen(
 
             Spacer(modifier = Modifier.height(12.dp))
 
-            Image(
-                painter = painterResource(id = R.drawable.tecsup),
-                contentDescription = "Logo Tecsup",
-                modifier = Modifier
-                    .size(120.dp)
-                    .align(Alignment.CenterHorizontally)
-            )
         }
 
         // ----------------- CONTENIDO PRINCIPAL -----------------
