@@ -5,9 +5,9 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.tecsup.authfirebaseapp.screen.HomeScreen
-import com.tecsup.authfirebaseapp.screen.LoginScreen
-import com.tecsup.authfirebaseapp.screen.RegisterScreen
+import com.tecsup.productmanager.screens.HomeScreen
+import com.tecsup.productmanager.screens.LoginScreen
+import com.tecsup.productmanager.screens.RegisterScreen
 
 object Destinations {
     const val LOGIN = "login"
