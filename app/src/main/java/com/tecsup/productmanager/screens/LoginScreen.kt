@@ -161,7 +161,7 @@ fun LoginScreen(
         }
 
         Text(
-            text = "Anderson Ramos Iman - Tecsup",
+            text = "Anderson Ramos and Jair Roman - Tecsup",
             style = MaterialTheme.typography.bodySmall,
             modifier = Modifier
                 .align(Alignment.BottomCenter)
